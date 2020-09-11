@@ -101,7 +101,7 @@ They are perfect for spec'ing high level user interactions with HTML and forms.
 We're going to be learning how to write and read an integration test using a
 library called Capybara within an RSpec test suite.
 
-_Note: While you will generally not be required to write tests in Learn, you
+_Note: While you will generally not be required to write tests during the program, you
 will be required to read a test and understand what functionality the test suite
 is anticipating and testing. If you can read a test, we believe you can also
 write a test._
